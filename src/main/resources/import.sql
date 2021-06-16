@@ -1,0 +1,2 @@
+INSERT INTO tickets (departure_date, arrival_date, origin_city, destiny_city, passenger_name, passenger_age, has_luggage_storage, price, departure_time, arrival_time)VALUES(now() ,now() ,'CDMX' ,'Cancun' ,'Alexa' ,'35' ,true ,12789 ,'10:00' ,'12:00');
+INSERT INTO tickets (departure_date, arrival_date, origin_city, destiny_city, passenger_name, passenger_age, has_luggage_storage, price, departure_time, arrival_time)VALUES(now() ,now() ,'CDMX' ,'Cancun' ,'Alex' ,'35' ,false ,12789 ,'10:00' ,'12:00');
